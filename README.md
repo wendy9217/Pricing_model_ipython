@@ -1,2 +1,2 @@
-### Implementation in Python of the Black Scholes formula and some greeks.
+# Implementation in Python of the Black Scholes formula and some greeks.
 
